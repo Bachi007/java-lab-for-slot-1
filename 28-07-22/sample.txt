@@ -1,0 +1,43 @@
+Lab Programs @28-07-22
+
+1. Write a java program to print number of duplicate values in array?
+
+2. Write a java program to print transpose matrix from given matrix
+
+3. 
+Create a class with customer 
+		=> 3 private instance variables as accountNumber,accountName,accountBalance
+		=> 3 methods 1. create account => accnumber,accname,accbal
+					2. setAmount=> add amount to accbal
+					4. withDrawAmount()=to withdraw amount from accBalance
+					3. getAmount=>print accbal and name of account
+create a main class to use customer and create atleast two customers
+
+
+hint c1=>customer
+		accountBalance=2500;
+		c1.creatAccount(1234,"Bhaskar",500)
+		c1.setAmount(2000);
+		c1.getAmount=>
+		Hello bhaskar your account balanace is 2500
+		
+
+
+
+
+1 2 3		1 2 6
+2 4 5    => 2 4 7
+6 7 8		3 5 8
+
+regular matrix=>a[rows][cols]
+
+transpose matrix=>a[cols][rows]
+
+
+{12,10,5,6,5}
+=>1
+
+
+
+
+
